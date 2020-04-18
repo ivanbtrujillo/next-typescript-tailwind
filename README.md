@@ -9,6 +9,8 @@ This is a boilerplate with some awesome tools pre-configured:
 
 I've added some components and examples.
 
+[Check the Codesandbox with the example](https://codesandbox.io/s/awesome-borg-x165z?file=/pages/index.tsx)
+
 ## How to use
 
 ```
