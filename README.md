@@ -1,4 +1,4 @@
-# 🚀 Next with super powers 🚀
+![alt text](./docs/header.svg "Next with super powers")
 
 This is a boilerplate with some awesome tools pre-configured:
 
